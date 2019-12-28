@@ -30,7 +30,7 @@ jinja2=2.10.3=py_0
 langdetect=1.0.7=py_0
 mako=1.1.0=pypi_0
 markupsafe=1.1.1=py36he774522_0
-nltk=3.4.4=py_0
+nltk>=3.4.5=py_0
 openssl=1.1.1d=hfa6e2cd_0
 pip=19.3.1=py36_0
 pycparser=2.19=py36_1
