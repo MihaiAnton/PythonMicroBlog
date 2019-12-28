@@ -58,3 +58,7 @@ wheel=0.33.6=py36_0
 win_inet_pton=1.1.0=py36_0
 wincertstore=0.2=py36h7fe50ca_0
 wtforms=2.2.1=py36_0
+
+# requirements for Heroku
+psycopg2==2.7.3.1
+gunicorn==19.7.1
